@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xca8224b09a48d26b7449ddea6831df6bd609de27",
+  "SCAN_LINK": "https://etherscan.io/address/0xca8224b09a48d26b7449ddea6831df6bd609de27",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Baby Rabbits",
+  "SYMBOL": "Baby Rabbits",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-rabbits",
+  "SHOW_BACKGROUND": true
+}
